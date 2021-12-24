@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638724953 source:c:\users\pocketsoroka\desktop\Учеба\Информатика\codeblocks\Лабораторные работы\lab3\lab3\main.c
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<time.h>
+
